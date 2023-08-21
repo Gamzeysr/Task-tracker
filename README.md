@@ -1,7 +1,7 @@
 
 ![tasktracker](https://user-images.githubusercontent.com/108168084/197571214-7ca5ea79-9cae-4161-9fc2-731218439f50.png)
 
-## https://react-tasktracker-gmz.netlify.app/✨✨
+
 
 
 # Getting Started with Create React App
